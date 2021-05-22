@@ -1,0 +1,8 @@
+{
+  "scripts": {
+      "start": "ecstatic public"
+  },
+  "dependencies": {
+    "ecstatic": "^4.1.4"
+  }
+}
